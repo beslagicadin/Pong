@@ -15,6 +15,13 @@ A desktop implementation of the classic Pong game built with Visual C#.
 - .NET Framework
 - Windows Forms
 
+## Controls
+
+| Player | Move Up | Move Down |
+|--------|---------|-----------|
+| Player 1 | `W` | `S` |
+| Player 2 | `↑` | `↓` |
+
 ## Getting Started
 
 1. Clone the repository
