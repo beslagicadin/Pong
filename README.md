@@ -35,4 +35,4 @@ A desktop implementation of the classic Pong game built with Visual C#.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This software is all rights reserved. Use, copying, modification, or distribution requires prior written permission from the author. See the [LICENSE](LICENSE) file for full terms or contact [beslagicadin@gmail.com](mailto:beslagicadin@gmail.com) to request permission.
